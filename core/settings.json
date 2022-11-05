@@ -1,4 +1,7 @@
 {
   "invertUDRS": "false",
-  "coreAbout": "This project is currently in Beta.\nMore information is coming soon."
+  "projectTitle": "The Core Project: Name of Season",
+  "projectDescription": "This project is currently in Beta.\nMore information is coming soon.",
+  "disabledTitle": "Feature Disabled!",
+  "disabledDescription": "This feature has been disabled!"
 }
