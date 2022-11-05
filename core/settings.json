@@ -1,5 +1,5 @@
 {
-  "invertUDRS": "true",
+  "invertUDRS": "false",
   "projectTitle": "The Core Project: ExampleCore",
   "projectDescription": "This project is currently in Beta.\nMore information is coming soon.",
   "disabledTitle": "Feature Disabled!",
