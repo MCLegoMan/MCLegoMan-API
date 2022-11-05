@@ -3,5 +3,6 @@
   "projectTitle": "The Core Project: ExampleCore",
   "projectDescription": "This project is currently in Beta.\nMore information is coming soon.",
   "disabledTitle": "Feature Disabled!",
-  "disabledDescription": "This feature has been disabled!"
+  "disabledDescription": "This feature has been disabled!",
+  "apiReloadDescription": "The API Data has been reloaded"
 }
