@@ -1,3 +1,6 @@
 {
-  "invertUDRS": "false"
+  "invertUDRS": "false",
+  "disabledTitle": "Feature Disabled!",
+  "disabledDescription": "This feature has been disabled!",
+  "apiReloadDescription": "The API Data has been reloaded"
 }
