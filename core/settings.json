@@ -1,7 +1,7 @@
 {
   "invertUDRS": "false",
   "projectTitle": "The Core Project: FlippedCore",
-  "projectDescription": "Please Note: This project is currently in Beta.\n\nEveryone has been flipped upside down.\nPlayers whom are normally the right way up are upside down,\nand Players whom are normally upside down are the right way up.\n\nPlayers start with 5 Lives.\nOnce the player has reached their last life, they must break all friendship ties and have the main goal of killing everyone else.",
+  "projectDescription": "Please Note: This project is currently in Beta.\n\nEveryone has been flipped upside down.\nPlayers whom are normally the right way up are upside down,\nand Players whom are normally upside down are the right way up.\n\nPlayers start with 5 Lives.\nOnce the player has reached their last life,\nthey must break all friendship ties and have the main goal of killing everyone else.",
   "disabledTitle": "Feature Disabled!",
   "disabledDescription": "This feature has been disabled!"
 }
