@@ -1,8 +1,7 @@
 {
   "invertUDRS": "false",
-  "projectTitle": "The Core Project: ExampleCore",
-  "projectDescription": "This project is currently in Beta.\nMore information is coming soon.",
+  "projectTitle": "The Core Project: FlippedCore",
+  "projectDescription": "Please Note: This project is currently in Beta.\nEveryone has been flipped upside down.\nPlayers whom are normally the right way up are upside down,\nand Players whom are normally upside down are the right way up.",
   "disabledTitle": "Feature Disabled!",
-  "disabledDescription": "This feature has been disabled!",
-  "apiReloadDescription": "The API Data has been reloaded"
+  "disabledDescription": "This feature has been disabled!"
 }
