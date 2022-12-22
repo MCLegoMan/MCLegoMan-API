@@ -2,7 +2,7 @@
   "invertUDRS": "false",
   "disabledTitle": "Feature Disabled!",
   "disabledDescription": "This feature has been disabled!",
-  "apiReloadDescription": "The MCLegoMan-API StaticData has been reloaded",
+  "apiReloadDescription": "Reloaded Local API data.",
   "apiReloadDebugDescription": "Reloaded Local API data using LegoLib settings.",
   "apiReloadDebugCoreDescription": "Reloaded Local API data using LegoLib and CoreProject settings."
 }
